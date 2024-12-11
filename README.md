@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture></p>
 <h1 align="center">Hi 👋, I'm Farjhan Ahmed</h1>
-<h4 align="center">I am a skilled Machine Learning, Deep Learning, and Artificial Intelligence Engineer with expertise in building and deploying intelligent systems. I have a strong foundation in mathematical concepts, data structures, and algorithms, coupled with hands-on experience in creating and optimizing machine learning models. My proficiency includes developing AI-driven solutions to solve real-world problems, leveraging state-of-the-art frameworks, and staying up-to-date with the latest advancements in the field.</h4>
+<h3 align="center">ML/DL/AI Engineer</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=CodeWithTaskin&label=Profile%20views&color=0e75b6&style=flat" alt="CodeWithTaskin" /> </p>
 
