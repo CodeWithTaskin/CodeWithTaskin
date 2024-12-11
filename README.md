@@ -31,8 +31,18 @@
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-
-
-
 <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I like to explore new technologi.\
+🎓 &nbsp;I'm currently studying Computer \
+🌱 &nbsp;I'm on track for learning more.\
+✍️ &nbsp;In my free time, I pursue Graphic \
+💬 &nbsp;Feel free to reach out to me for pro bono \
+✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! \
+📄 &nbsp;Please have a look at my [Resume](https://www.adityavsingh.com/resume.html) 
+
+
+
+
+
