@@ -39,15 +39,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
-### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologi.\
-🎓 &nbsp;I'm currently studying Computer \
-🌱 &nbsp;I'm on track for learning more.\
-✍️ &nbsp;In my free time, I pursue Graphic \
-💬 &nbsp;Feel free to reach out to me for pro bono \
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! \
-📄 &nbsp;Please have a look at my [Resume](https://www.adityavsingh.com/resume.html) 
+### 👨🏻‍💻 &nbsp;About Me
+💡 I'm a tech enthusiast driven by curiosity and a desire to solve real-world problems using modern technologies.  
+🌱 Currently diving deep into backend development, API design, MLOps, and cloud computing (AWS, Azure).  
+⚙️ My toolkit includes Python, Flask, FastAPI, MongoDB, Docker, and GitHub Actions for CI/CD.   
+💬 Always open to meaningful collaborations and pro bono contributions to nonprofits or open-source communities.  
+📫 Feel free to reach out to me at: **farjhanahmed@gmail.com**  
+📄 [View My Resume](#) – Let's create something impactful together!
 <br/>
 <br/>
 ### 🛠 &nbsp;Tech Stack
@@ -91,6 +90,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 <br/>
+
+## 🤝 Let’s Connect
+
+- 📧 Email: **farjhanahmed@gmail.com**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/farjhan-ahmed/)  
+- 🧑‍💻 [Portfolio Website](#)
+
+---
 
 ### ⚙️ &nbsp;GitHub Analytics
 <div align="center">
