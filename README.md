@@ -40,7 +40,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Me
 💡 I'm a tech enthusiast driven by curiosity and a desire to solve real-world problems using modern technologies.  
 🌱 Currently diving deep into backend development, API design, MLOps, and cloud computing (AWS, Azure).  
 ⚙️ My toolkit includes Python, Flask, FastAPI, MongoDB, Docker, and GitHub Actions for CI/CD.   
@@ -49,7 +49,7 @@
 📄 [View My Resume](#) – Let's create something impactful together!
 <br/>
 <br/>
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -99,7 +99,7 @@
 
 ---
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodeWithTaskin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   
