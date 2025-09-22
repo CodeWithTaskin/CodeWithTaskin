@@ -49,7 +49,7 @@
 📄 [View My Resume](#) – Let's create something impactful together!
 <br/>
 <br/>
-<img align="right" height="350px" width= "380px" alt="GIF" src="https://64.media.tumblr.com/6eb38a90652f39f850cd7d1827652548/tumblr_o0bjgq2Nas1v1wfzlo1_500.gifv" />
+<img align="right" height="350px" width= "380px" alt="GIF" src="./Audio Wave Art Inspiration.gif" />
 ## 🛠 &nbsp;Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
